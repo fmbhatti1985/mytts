@@ -1,0 +1,42 @@
+[
+  {
+    "part": "hello! ",
+    "start": 112,
+    "end": 450
+  },
+  {
+    "part": "i ",
+    "start": 862,
+    "end": 937
+  },
+  {
+    "part": "am ",
+    "start": 950,
+    "end": 1025
+  },
+  {
+    "part": "a ",
+    "start": 1025,
+    "end": 1075
+  },
+  {
+    "part": "coder, ",
+    "start": 1087,
+    "end": 1512
+  },
+  {
+    "part": "who ",
+    "start": 1525,
+    "end": 1612
+  },
+  {
+    "part": "you ",
+    "start": 1612,
+    "end": 1737
+  },
+  {
+    "part": "are?",
+    "start": 1750,
+    "end": 2037
+  }
+]

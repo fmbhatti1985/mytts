@@ -1,0 +1,622 @@
+[
+  {
+    "part": "You ",
+    "start": 100,
+    "end": 225
+  },
+  {
+    "part": "eat ",
+    "start": 237,
+    "end": 450
+  },
+  {
+    "part": "fruit ",
+    "start": 462,
+    "end": 900
+  },
+  {
+    "part": "without ",
+    "start": 912,
+    "end": 1337
+  },
+  {
+    "part": "thinking. ",
+    "start": 1350,
+    "end": 1912
+  },
+  {
+    "part": "Strawberries, ",
+    "start": 2325,
+    "end": 3025
+  },
+  {
+    "part": "blueberries, ",
+    "start": 3087,
+    "end": 3812
+  },
+  {
+    "part": "grapes — ",
+    "start": 3862,
+    "end": 4487
+  },
+  {
+    "part": "you ",
+    "start": 4700,
+    "end": 4800
+  },
+  {
+    "part": "grab ",
+    "start": 4812,
+    "end": 5125
+  },
+  {
+    "part": "them, ",
+    "start": 5125,
+    "end": 5337
+  },
+  {
+    "part": "wash ",
+    "start": 5587,
+    "end": 5887
+  },
+  {
+    "part": "them, ",
+    "start": 5887,
+    "end": 6137
+  },
+  {
+    "part": "pop ",
+    "start": 6337,
+    "end": 6587
+  },
+  {
+    "part": "them ",
+    "start": 6587,
+    "end": 6687
+  },
+  {
+    "part": "in ",
+    "start": 6687,
+    "end": 6737
+  },
+  {
+    "part": "your ",
+    "start": 6737,
+    "end": 6812
+  },
+  {
+    "part": "mouth. ",
+    "start": 6812,
+    "end": 7262
+  },
+  {
+    "part": "No ",
+    "start": 7675,
+    "end": 7875
+  },
+  {
+    "part": "fear. ",
+    "start": 7875,
+    "end": 8350
+  },
+  {
+    "part": "No ",
+    "start": 8737,
+    "end": 8912
+  },
+  {
+    "part": "hesitation. ",
+    "start": 8925,
+    "end": 9812
+  },
+  {
+    "part": "You've ",
+    "start": 10212,
+    "end": 10325
+  },
+  {
+    "part": "never ",
+    "start": 10337,
+    "end": 10650
+  },
+  {
+    "part": "once ",
+    "start": 10650,
+    "end": 10850
+  },
+  {
+    "part": "worried ",
+    "start": 10862,
+    "end": 11225
+  },
+  {
+    "part": "that ",
+    "start": 11225,
+    "end": 11337
+  },
+  {
+    "part": "a ",
+    "start": 11337,
+    "end": 11387
+  },
+  {
+    "part": "berry ",
+    "start": 11387,
+    "end": 11675
+  },
+  {
+    "part": "might ",
+    "start": 11675,
+    "end": 11950
+  },
+  {
+    "part": "kill ",
+    "start": 11962,
+    "end": 12275
+  },
+  {
+    "part": "you.\n\n\n",
+    "start": 12275,
+    "end": 12537
+  },
+  {
+    "part": "But ",
+    "start": 12950,
+    "end": 13050
+  },
+  {
+    "part": "every ",
+    "start": 13062,
+    "end": 13325
+  },
+  {
+    "part": "safe ",
+    "start": 13325,
+    "end": 13750
+  },
+  {
+    "part": "bite ",
+    "start": 13762,
+    "end": 13975
+  },
+  {
+    "part": "you've ",
+    "start": 13975,
+    "end": 14187
+  },
+  {
+    "part": "ever ",
+    "start": 14325,
+    "end": 14537
+  },
+  {
+    "part": "taken ",
+    "start": 14550,
+    "end": 14850
+  },
+  {
+    "part": "exists ",
+    "start": 14850,
+    "end": 15425
+  },
+  {
+    "part": "because ",
+    "start": 15562,
+    "end": 15862
+  },
+  {
+    "part": "someone, ",
+    "start": 15875,
+    "end": 16375
+  },
+  {
+    "part": "thousands ",
+    "start": 16600,
+    "end": 17100
+  },
+  {
+    "part": "of ",
+    "start": 17100,
+    "end": 17137
+  },
+  {
+    "part": "years ",
+    "start": 17150,
+    "end": 17437
+  },
+  {
+    "part": "ago, ",
+    "start": 17437,
+    "end": 17825
+  },
+  {
+    "part": "ate ",
+    "start": 18287,
+    "end": 18462
+  },
+  {
+    "part": "one ",
+    "start": 18462,
+    "end": 18762
+  },
+  {
+    "part": "that ",
+    "start": 18775,
+    "end": 18912
+  },
+  {
+    "part": "wasn't ",
+    "start": 18912,
+    "end": 19162
+  },
+  {
+    "part": "safe. ",
+    "start": 19162,
+    "end": 19750
+  },
+  {
+    "part": "That ",
+    "start": 20162,
+    "end": 20425
+  },
+  {
+    "part": "knowledge — ",
+    "start": 20437,
+    "end": 21150
+  },
+  {
+    "part": "which ",
+    "start": 21375,
+    "end": 21537
+  },
+  {
+    "part": "plants ",
+    "start": 21550,
+    "end": 21937
+  },
+  {
+    "part": "feed ",
+    "start": 21950,
+    "end": 22225
+  },
+  {
+    "part": "you ",
+    "start": 22225,
+    "end": 22475
+  },
+  {
+    "part": "and ",
+    "start": 22612,
+    "end": 22762
+  },
+  {
+    "part": "which ",
+    "start": 22762,
+    "end": 22950
+  },
+  {
+    "part": "ones ",
+    "start": 22950,
+    "end": 23250
+  },
+  {
+    "part": "stop ",
+    "start": 23262,
+    "end": 23537
+  },
+  {
+    "part": "your ",
+    "start": 23537,
+    "end": 23650
+  },
+  {
+    "part": "heart — ",
+    "start": 23650,
+    "end": 23975
+  },
+  {
+    "part": "was ",
+    "start": 24412,
+    "end": 24550
+  },
+  {
+    "part": "paid ",
+    "start": 24562,
+    "end": 24950
+  },
+  {
+    "part": "for ",
+    "start": 24950,
+    "end": 25087
+  },
+  {
+    "part": "in ",
+    "start": 25100,
+    "end": 25162
+  },
+  {
+    "part": "blood.\n\n\n",
+    "start": 25162,
+    "end": 25537
+  },
+  {
+    "part": "Now ",
+    "start": 25950,
+    "end": 26162
+  },
+  {
+    "part": "imagine ",
+    "start": 26175,
+    "end": 26675
+  },
+  {
+    "part": "standing ",
+    "start": 26675,
+    "end": 27100
+  },
+  {
+    "part": "in ",
+    "start": 27112,
+    "end": 27200
+  },
+  {
+    "part": "front ",
+    "start": 27212,
+    "end": 27450
+  },
+  {
+    "part": "of ",
+    "start": 27462,
+    "end": 27500
+  },
+  {
+    "part": "a ",
+    "start": 27500,
+    "end": 27562
+  },
+  {
+    "part": "bush ",
+    "start": 27662,
+    "end": 28075
+  },
+  {
+    "part": "you've ",
+    "start": 28087,
+    "end": 28225
+  },
+  {
+    "part": "never ",
+    "start": 28225,
+    "end": 28437
+  },
+  {
+    "part": "seen. ",
+    "start": 28450,
+    "end": 28837
+  },
+  {
+    "part": "Bright ",
+    "start": 29262,
+    "end": 29575
+  },
+  {
+    "part": "red ",
+    "start": 29662,
+    "end": 29850
+  },
+  {
+    "part": "berries. ",
+    "start": 29850,
+    "end": 30425
+  },
+  {
+    "part": "They ",
+    "start": 30837,
+    "end": 30912
+  },
+  {
+    "part": "smell ",
+    "start": 30912,
+    "end": 31200
+  },
+  {
+    "part": "sweet. ",
+    "start": 31212,
+    "end": 31700
+  },
+  {
+    "part": "They ",
+    "start": 32100,
+    "end": 32162
+  },
+  {
+    "part": "look ",
+    "start": 32162,
+    "end": 32287
+  },
+  {
+    "part": "like ",
+    "start": 32287,
+    "end": 32437
+  },
+  {
+    "part": "food. ",
+    "start": 32450,
+    "end": 32850
+  },
+  {
+    "part": "But ",
+    "start": 33262,
+    "end": 33350
+  },
+  {
+    "part": "you ",
+    "start": 33350,
+    "end": 33412
+  },
+  {
+    "part": "have ",
+    "start": 33412,
+    "end": 33575
+  },
+  {
+    "part": "no ",
+    "start": 33575,
+    "end": 33825
+  },
+  {
+    "part": "idea ",
+    "start": 33825,
+    "end": 34512
+  },
+  {
+    "part": "if ",
+    "start": 34612,
+    "end": 34725
+  },
+  {
+    "part": "they'll ",
+    "start": 34737,
+    "end": 34850
+  },
+  {
+    "part": "fill ",
+    "start": 34850,
+    "end": 35112
+  },
+  {
+    "part": "your ",
+    "start": 35112,
+    "end": 35225
+  },
+  {
+    "part": "stomach ",
+    "start": 35225,
+    "end": 35662
+  },
+  {
+    "part": "or ",
+    "start": 35800,
+    "end": 36012
+  },
+  {
+    "part": "shut ",
+    "start": 36287,
+    "end": 36637
+  },
+  {
+    "part": "down ",
+    "start": 36637,
+    "end": 36850
+  },
+  {
+    "part": "your ",
+    "start": 36862,
+    "end": 36950
+  },
+  {
+    "part": "liver. ",
+    "start": 36950,
+    "end": 37375
+  },
+  {
+    "part": "And ",
+    "start": 37775,
+    "end": 37850
+  },
+  {
+    "part": "you ",
+    "start": 37862,
+    "end": 37937
+  },
+  {
+    "part": "have ",
+    "start": 37937,
+    "end": 38175
+  },
+  {
+    "part": "to ",
+    "start": 38175,
+    "end": 38262
+  },
+  {
+    "part": "eat. ",
+    "start": 38262,
+    "end": 38575
+  },
+  {
+    "part": "Today.\n\n\n",
+    "start": 38987,
+    "end": 39312
+  },
+  {
+    "part": "How ",
+    "start": 39712,
+    "end": 39775
+  },
+  {
+    "part": "did ",
+    "start": 39775,
+    "end": 39887
+  },
+  {
+    "part": "humans ",
+    "start": 39887,
+    "end": 40250
+  },
+  {
+    "part": "figure ",
+    "start": 40250,
+    "end": 40537
+  },
+  {
+    "part": "out ",
+    "start": 40550,
+    "end": 40812
+  },
+  {
+    "part": "which ",
+    "start": 40825,
+    "end": 41025
+  },
+  {
+    "part": "plants ",
+    "start": 41025,
+    "end": 41450
+  },
+  {
+    "part": "were ",
+    "start": 41462,
+    "end": 41550
+  },
+  {
+    "part": "food ",
+    "start": 41550,
+    "end": 42112
+  },
+  {
+    "part": "and ",
+    "start": 42400,
+    "end": 42550
+  },
+  {
+    "part": "which ",
+    "start": 42550,
+    "end": 42725
+  },
+  {
+    "part": "ones ",
+    "start": 42725,
+    "end": 42912
+  },
+  {
+    "part": "were ",
+    "start": 42912,
+    "end": 43000
+  },
+  {
+    "part": "death?",
+    "start": 43012,
+    "end": 43512
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "part": "Hello! ",
+    "start": 100,
+    "end": 712
+  },
+  {
+    "part": "This ",
+    "start": 1352,
+    "end": 1602
+  },
+  {
+    "part": "is ",
+    "start": 1615,
+    "end": 1727
+  },
+  {
+    "part": "a ",
+    "start": 1740,
+    "end": 1815
+  },
+  {
+    "part": "preview ",
+    "start": 1827,
+    "end": 2277
+  },
+  {
+    "part": "of ",
+    "start": 2290,
+    "end": 2377
+  },
+  {
+    "part": "this ",
+    "start": 2390,
+    "end": 2577
+  },
+  {
+    "part": "voice.",
+    "start": 2590,
+    "end": 3127
+  }
+]
